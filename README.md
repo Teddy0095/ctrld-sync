@@ -1,4 +1,4 @@
-# Control D Sync
+# Control D Sync 
 
 A tiny Python script that keeps your Control D Folders in sync with a set of
 remote block-lists.
